@@ -11,11 +11,7 @@ Python
 SQL
 
 🚀 Atualmente
-
 🎓 Cursando Análise e Desenvolvimento de Sistemas
-
 💻 Desenvolvendo projetos para praticar programação
-
 📚 Aprendendo e aprimorando meus conhecimentos em desenvolvimento de software
-
 🛠️ Explorando diferentes áreas da tecnologia
