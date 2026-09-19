@@ -4,16 +4,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minh
 
 ## 💻 Tecnologias
 
-- ☕ Java
-- 🟨 JavaScript
-- 🌐 HTML
-- 🎨 CSS
-- 🐍 Python
-- 🗄️ SQL
+☕ Java
+🟨 JavaScript
+🌐 HTML
+🎨 CSS
+🐍 Python
+🗄️ SQL
 
 ## 🚀 Atualmente
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos para praticar programação
-- 📚 Aprendendo e aprimorando meus conhecimentos em desenvolvimento de software
-- 🛠️ Explorando diferentes áreas da tecnologia
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+💻 Desenvolvendo projetos para praticar programação
+📚 Aprendendo e aprimorando meus conhecimentos em desenvolvimento de software
+🛠️ Explorando diferentes áreas da tecnologia
